@@ -1,0 +1,135 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.1.jar)
+  Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+  LevelUpCore (levelup2-1.5.8.jar)
+  iceandfire (iceandfire-1.9.1-1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// I just don't know what went wrong :(
+
+Time: 8/18/25 3:33 AM
+Description: Ticking block entity
+
+java.lang.NullPointerException: Ticking block entity
+	at com.someguyssoftware.dungeons2.tileentity.DeferredDungeonGeneratorTileEntity.func_73660_a(DeferredDungeonGeneratorTileEntity.java:101)
+	at net.minecraft.world.World.func_72939_s(World.java:1838)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.someguyssoftware.dungeons2.tileentity.DeferredDungeonGeneratorTileEntity.func_73660_a(DeferredDungeonGeneratorTileEntity.java:101)
+
+-- Block entity being ticked --
+Details:
+	Name: treasure2:deferred_dungeon_generator_te // com.someguyssoftware.dungeons2.tileentity.DeferredDungeonGeneratorTileEntity
+	Block type: ID #403 (tile.dungeons2:deferred_dungeon_generator // com.someguyssoftware.dungeons2.block.DeferredDungeonGeneratorBlock // dungeons2:deferred_dungeon_generator)
+	Block data value: 0 / 0x0 / 0b0000
+	Block location: World: (-249,64,631), Chunk: (at 7,4,7 in -16,39; contains blocks -256,0,624 to -241,255,639), Region: (-1,1; contains chunks -32,32 to -1,63, blocks -512,0,512 to -1,255,1023)
+	Actual block type: ID #403 (tile.dungeons2:deferred_dungeon_generator // com.someguyssoftware.dungeons2.block.DeferredDungeonGeneratorBlock // dungeons2:deferred_dungeon_generator)
+	Actual block data value: 0 / 0x0 / 0b0000
+Stacktrace:
+	at net.minecraft.world.World.func_72939_s(World.java:1838)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 3 total; [EntityPlayerMP['TITIN_2'/1167, l='world', x=-85.67, y=66.00, z=484.71], EntityPlayerMP['MaRio190waa'/64220, l='world', x=-5.98, y=67.00, z=413.32], EntityPlayerMP['Antarki01'/35986, l='world', x=141.52, y=59.20, z=293.62]]
+	Chunk stats: ServerChunkCache: 937 Drop: 0
+	Level seed: -8841726556267721179
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (204,64,248), Chunk: (at 12,4,8 in 12,15; contains blocks 192,0,240 to 207,255,255), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 113242 game time, 130445 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 87197 (now: false), thunder time: 17057 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 1.8.0_462, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 1536887856 bytes (1465 MB) / 2488270848 bytes (2373 MB) up to 9544663040 bytes (9102 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx10G
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 21 mods loaded, 21 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID              | Version           | Source                                         | Signature                                |
+	|:------ |:--------------- |:----------------- |:---------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft       | 1.12.2            | minecraft.jar                                  | None                                     |
+	| LCHIJA | mcp             | 9.42              | minecraft.jar                                  | None                                     |
+	| LCHIJA | FML             | 8.0.99.99         | forge-1.12.2-14.23.5.2860.jar                  | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge           | 14.23.5.2860      | forge-1.12.2-14.23.5.2860.jar                  | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | foamfixcore     | 7.7.4             | minecraft.jar                                  | None                                     |
+	| LCHIJA | baubles         | 1.5.2             | Baubles-1.12-1.5.2.jar                         | None                                     |
+	| LCHIJA | artifacts       | 1.12.2-1.2.4      | artifacts-1.12.2-1.2.4.jar                     | None                                     |
+	| LCHIJA | betterquesting  | 3.5.329           | BetterQuesting-3.5.329.jar                     | None                                     |
+	| LCHIJA | customnpcs      | 1.12              | CustomNPCs_1.12.2-(05Jul20).jar                | None                                     |
+	| LCHIJA | gottschcore     | 1.15.1            | GottschCore-mc1.12.2-f14.23.5.2859-v1.15.1.jar | None                                     |
+	| LCHIJA | dungeons2       | 2.0.0             | Dungeons2-mc1.12.2-f14.23.5.2859-v2.0.0.jar    | None                                     |
+	| LCHIJA | fastfurnace     | 1.3.1             | FastFurnace-1.12.2-1.3.1.jar                   | None                                     |
+	| LCHIJA | foamfix         | @VERSION@         | foamfix-0.10.15-1.12.2.jar                     | None                                     |
+	| LCHIJA | llibrary        | 1.7.20            | llibrary-1.7.20-1.12.2.jar                     | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+	| LCHIJA | iceandfire      | 1.9.1             | iceandfire-1.9.1-1.12.2.jar                    | None                                     |
+	| LCHIJA | levelup2        | ${version}        | levelup2-1.5.8.jar                             | None                                     |
+	| LCHIJA | mantle          | 1.12-1.3.3.55     | Mantle-1.12-1.3.3.55.jar                       | None                                     |
+	| LCHIJA | mowziesmobs     | 1.5.8             | mowziesmobs_1.12.2_1.5.8.jar                   | None                                     |
+	| LCHIJA | roguelike       | 1.8.0             | RoguelikeDungeons-1.12.2-1.8.0.jar             | None                                     |
+	| LCHIJA | spartanweaponry | 1.6.1             | SpartanWeaponry-1.12.2-1.6.1.jar               | None                                     |
+	| LCHIJA | tconstruct      | 1.12.2-2.13.0.183 | TConstruct-1.12.2-2.13.0.183.jar               | None                                     |
+
+	Loaded coremods (and transformers): 
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.1.jar)
+  
+Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+  pl.asie.foamfix.coremod.FoamFixTransformer
+LevelUpCore (levelup2-1.5.8.jar)
+  
+iceandfire (iceandfire-1.9.1-1.12.2.jar)
+  com.github.alexthe666.iceandfire.patcher.IceAndFireRuntimePatcher
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+
+	Profiler Position: N/A (disabled)
+	Player Count: 3 / 20; [EntityPlayerMP['TITIN_2'/1167, l='world', x=-85.67, y=66.00, z=484.71], EntityPlayerMP['MaRio190waa'/64220, l='world', x=-5.98, y=67.00, z=413.32], EntityPlayerMP['Antarki01'/35986, l='world', x=141.52, y=59.20, z=293.62]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
