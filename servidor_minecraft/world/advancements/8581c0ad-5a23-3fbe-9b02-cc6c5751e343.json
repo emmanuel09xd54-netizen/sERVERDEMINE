@@ -637,6 +637,7 @@
       "skeleton": "2025-08-18 02:18:52 +0000",
       "husk": "2025-08-20 00:54:26 +0000",
       "zombie": "2025-08-18 02:04:36 +0000",
+      "silverfish": "2025-08-20 01:12:56 +0000",
       "spider": "2025-08-18 02:40:48 +0000",
       "creeper": "2025-08-20 00:39:35 +0000"
     },
@@ -924,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-08-20 01:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-08-18 03:21:38 +0000"
@@ -1092,6 +1099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-20 01:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-18 02:04:02 +0000"
@@ -1215,6 +1228,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-08-18 02:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-08-20 01:11:44 +0000"
     },
     "done": true
   },
