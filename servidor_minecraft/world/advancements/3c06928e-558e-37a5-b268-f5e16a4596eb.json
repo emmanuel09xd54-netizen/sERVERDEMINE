@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-20 01:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-18 03:19:20 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-20 01:24:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-08-20 00:51:05 +0000"
@@ -245,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2025-08-20 01:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-08-18 03:20:30 +0000"
@@ -254,12 +272,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-08-20 00:43:49 +0000",
+      "baked_potato": "2025-08-20 01:18:30 +0000",
       "potato": "2025-08-20 00:52:57 +0000",
       "cooked_cod": "2025-08-20 00:55:18 +0000",
       "melon": "2025-08-20 00:59:34 +0000",
       "mutton": "2025-08-18 03:19:23 +0000",
       "bread": "2025-08-20 00:54:56 +0000",
       "rotten_flesh": "2025-08-18 03:23:26 +0000",
+      "beetroot": "2025-08-20 01:24:20 +0000",
       "cooked_chicken": "2025-08-20 01:08:32 +0000"
     },
     "done": false
@@ -312,6 +332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-08-20 01:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-20 00:51:36 +0000"
@@ -327,6 +353,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2025-08-18 03:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-20 01:17:35 +0000"
     },
     "done": true
   },
@@ -384,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-20 01:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-20 00:51:05 +0000"
@@ -393,6 +431,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-08-20 00:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-20 01:24:03 +0000"
     },
     "done": true
   },
@@ -466,6 +510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-20 01:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-20 00:51:05 +0000"
@@ -499,6 +549,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-08-18 03:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-20 01:24:01 +0000"
     },
     "done": true
   },
@@ -693,6 +749,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-20 00:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2025-08-20 01:17:35 +0000"
     },
     "done": true
   },
