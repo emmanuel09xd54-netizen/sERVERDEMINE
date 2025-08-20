@@ -13069,3 +13069,231 @@
 [00:36:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MaRio190waa[/127.209.221.235:37187] logged in with entity id 12523 at (-5.978101726736478, 67.0, 413.321657274822)
 [00:36:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa joined the game
 [00:36:42] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:37:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:37:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TITIN_2> -67 66 480
+[00:37:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:37:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:38:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:38:08] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:38:08] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 43] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 44] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 44] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 43] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 44] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 46] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 43] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 44] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 46] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 46] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 46] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 44] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [1, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 46] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [1, 46] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:10] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 47] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 47] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 46] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [9, 44] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [9, 43] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [7, 42] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [6, 42] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [0, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [0, 46] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 47] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [2, 47] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 48] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 48] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [5, 48] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-1, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [10, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [9, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [8, 45] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [3, 49] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [4, 49] in dimension 0 (overworld) while populating chunk [3, 44], causing cascading worldgen lag.
+[00:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TITIN_2 was slain by Spider
+[00:38:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:39:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:40:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:41:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:41:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:42:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:43:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:43:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:48] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:43:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:44:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:45:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:46:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:06] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-33, 34] in dimension 0 (overworld) while populating chunk [-33, 33], causing cascading worldgen lag.
+[00:47:06] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.

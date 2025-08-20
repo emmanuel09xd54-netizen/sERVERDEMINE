@@ -417,7 +417,8 @@
     "criteria": {
       "cooked_mutton": "2025-08-18 02:17:21 +0000",
       "cooked_beef": "2025-08-18 02:11:05 +0000",
-      "rotten_flesh": "2025-08-18 03:22:16 +0000"
+      "rotten_flesh": "2025-08-18 03:22:16 +0000",
+      "cooked_chicken": "2025-08-20 00:36:52 +0000"
     },
     "done": false
   },
@@ -616,6 +617,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-08-18 02:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-20 00:42:31 +0000"
     },
     "done": true
   },
@@ -963,10 +970,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-08-20 00:38:25 +0000",
       "magma_cube": "2025-08-18 03:19:17 +0000",
       "skeleton": "2025-08-18 02:18:52 +0000",
       "zombie": "2025-08-18 02:04:36 +0000",
-      "spider": "2025-08-18 02:40:48 +0000"
+      "spider": "2025-08-18 02:40:48 +0000",
+      "creeper": "2025-08-20 00:39:35 +0000"
     },
     "done": false
   },
@@ -1021,6 +1030,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-18 02:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-08-20 00:46:13 +0000"
     },
     "done": true
   },
