@@ -127,3 +127,4 @@ java.nio.file.NoSuchFileException: mods/dungeons2/styleSheets
 2025-08-20 00:27:30,265 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
 2025-08-20 00:27:30,275 [Server thread] INFO GottschCore | VersionChecker.java:110 | [dungeons2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Dungeons2/1.12.2-master/update.json
 2025-08-20 00:27:50,773 [Server thread] WARN Dungeons2 | DungeonBuilderTopDown.java:391 | Unable to generate Level: 0
+2025-08-20 00:58:16,536 [Server thread] INFO Dungeons2 | DungeonsWorldGen.java:221 | deferred placerholder -> DungeonInfo [coords=Coords [x=-393, y=64, z=7], levels=0, minX=0, maxX=0, minY=0, maxY=0, minZ=0, maxZ=0, themeName=null, bossChestCoords=null, pattern=null, levelSize=null, size=null, direction=null]
