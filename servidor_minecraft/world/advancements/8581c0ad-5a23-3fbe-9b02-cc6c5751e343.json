@@ -280,6 +280,7 @@
       "cooked_mutton": "2025-08-18 02:17:21 +0000",
       "cooked_beef": "2025-08-18 02:11:05 +0000",
       "baked_potato": "2025-08-20 01:20:25 +0000",
+      "cooked_cod": "2025-08-21 01:54:44 +0000",
       "melon": "2025-08-20 01:00:04 +0000",
       "bread": "2025-08-20 01:00:31 +0000",
       "rotten_flesh": "2025-08-18 03:22:16 +0000",
@@ -1294,6 +1295,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-08-18 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-21 02:02:18 +0000"
     },
     "done": true
   },
