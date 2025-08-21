@@ -289,6 +289,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-21 02:19:38 +0000",
       "cooked_mutton": "2025-08-20 00:43:49 +0000",
       "cooked_beef": "2025-08-21 00:59:00 +0000",
       "baked_potato": "2025-08-20 01:18:30 +0000",
@@ -682,13 +683,15 @@
     "criteria": {
       "wither_skeleton": "2025-08-20 00:54:37 +0000",
       "zombie_villager": "2025-08-20 01:46:19 +0000",
+      "slime": "2025-08-21 02:17:01 +0000",
       "skeleton": "2025-08-20 00:54:48 +0000",
       "husk": "2025-08-21 01:47:23 +0000",
       "zombie": "2025-08-18 03:23:09 +0000",
       "silverfish": "2025-08-20 01:31:52 +0000",
       "cave_spider": "2025-08-21 02:02:10 +0000",
       "spider": "2025-08-20 01:34:54 +0000",
-      "creeper": "2025-08-20 01:34:37 +0000"
+      "creeper": "2025-08-20 01:34:37 +0000",
+      "enderman": "2025-08-21 02:21:54 +0000"
     },
     "done": false
   },
@@ -950,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-21 02:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-21 01:46:34 +0000"
@@ -1082,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-21 02:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-08-20 02:46:01 +0000"
@@ -1114,6 +1129,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-20 00:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-21 02:30:05 +0000"
     },
     "done": true
   },
