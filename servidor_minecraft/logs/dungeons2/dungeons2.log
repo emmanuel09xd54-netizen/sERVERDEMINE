@@ -132,3 +132,35 @@ java.nio.file.NoSuchFileException: mods/dungeons2/styleSheets
 2025-08-20 01:11:24,934 [Server thread] WARN Dungeons2 | RotatorRegistry.java:68 | The class has already been registered.
 2025-08-20 01:11:25,083 [Server thread] INFO Dungeons2 | DeferredDungeonGeneratorTileEntity.java:142 | generated info -> DungeonInfo [coords=Coords [x=345, y=68, z=641], levels=2, minX=337, maxX=382, minY=45, maxY=60, minZ=610, maxZ=655, themeName=standard, bossChestCoords=null, pattern=null, levelSize=null, size=null, direction=null]
 2025-08-20 01:11:25,083 [Server thread] INFO Dungeons2 | DeferredDungeonGeneratorTileEntity.java:150 | dungeon generated -> 359 64 631
+2025-08-21 00:43:14,305 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,309 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,313 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,316 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,318 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,339 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,341 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,342 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,343 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,344 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,347 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,348 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,349 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,350 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,351 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,354 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,355 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,357 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,358 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,360 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,362 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,363 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,364 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,365 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,366 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,368 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,369 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,370 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,371 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,372 [Server thread] ERROR GottschCore | LootTableMaster.java:208 | is file system loot table current -> true
+2025-08-21 00:43:14,644 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
+2025-08-21 00:43:14,657 [Server thread] INFO GottschCore | VersionChecker.java:110 | [dungeons2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Dungeons2/1.12.2-master/update.json
