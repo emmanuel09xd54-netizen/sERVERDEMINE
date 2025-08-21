@@ -323,6 +323,7 @@
       "melon": "2025-08-20 00:59:34 +0000",
       "mutton": "2025-08-18 03:19:23 +0000",
       "bread": "2025-08-20 00:54:56 +0000",
+      "golden_apple": "2025-08-21 03:04:28 +0000",
       "rotten_flesh": "2025-08-18 03:23:26 +0000",
       "beetroot": "2025-08-20 01:24:20 +0000",
       "cooked_chicken": "2025-08-20 01:08:32 +0000",
@@ -589,6 +590,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-21 03:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-18 03:19:23 +0000"
@@ -628,6 +635,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-21 01:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-21 03:06:20 +0000"
     },
     "done": true
   },
@@ -1102,6 +1115,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-08-21 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-21 03:06:20 +0000"
     },
     "done": true
   },

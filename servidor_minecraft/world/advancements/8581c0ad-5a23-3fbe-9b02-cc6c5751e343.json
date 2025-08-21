@@ -1070,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-21 03:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-18 02:40:49 +0000"
@@ -1229,6 +1235,12 @@
   "spartanweaponry:halberd": {
     "criteria": {
       "craft": "2025-08-18 02:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-21 03:05:40 +0000"
     },
     "done": true
   },

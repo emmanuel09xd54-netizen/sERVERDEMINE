@@ -398,3 +398,6 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [02:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was slain by Zombie
 [03:00:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 withered away
 [03:02:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was killed trying to hurt Zombie Pigman
+[03:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was slain by Husk
+[03:06:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa has made the advancement [Ice Bucket Challenge]
+[03:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa has made the advancement [Hot Stuff]
