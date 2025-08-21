@@ -490,6 +490,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "jungle": "2025-08-21 03:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-20 00:51:36 +0000"
@@ -649,6 +655,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-21 03:06:20 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-08-21 03:59:03 +0000"
     },
     "done": true
   },
@@ -812,6 +824,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-18 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "jungle": "2025-08-21 03:59:46 +0000"
     },
     "done": true
   },
@@ -1230,7 +1248,8 @@
       "extreme_hills": "2025-08-18 03:16:23 +0000",
       "roofed_forest": "2025-08-18 03:17:31 +0000",
       "river": "2025-08-18 03:15:34 +0000",
-      "jungle": "2025-08-18 03:16:24 +0000"
+      "jungle": "2025-08-18 03:16:24 +0000",
+      "desert": "2025-08-21 04:08:53 +0000"
     },
     "done": false
   },

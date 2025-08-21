@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-21 04:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2025-08-18 02:02:50 +0000"
@@ -656,6 +662,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-20 00:47:33 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-08-21 04:02:28 +0000"
     },
     "done": true
   },
@@ -1335,14 +1347,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-08-18 02:05:15 +0000",
+      "deep_ocean": "2025-08-21 04:09:27 +0000",
+      "beaches": "2025-08-21 04:04:26 +0000",
       "plains": "2025-08-18 01:55:54 +0000",
       "jungle_edge": "2025-08-18 03:19:58 +0000",
       "jungle_hills": "2025-08-21 01:44:14 +0000",
       "taiga": "2025-08-18 03:32:23 +0000",
       "taiga_hills": "2025-08-21 00:52:06 +0000",
+      "ocean": "2025-08-21 04:06:02 +0000",
       "roofed_forest": "2025-08-18 02:08:42 +0000",
       "river": "2025-08-18 02:02:45 +0000",
-      "jungle": "2025-08-20 00:47:06 +0000"
+      "jungle": "2025-08-20 00:47:06 +0000",
+      "desert": "2025-08-21 04:06:55 +0000"
     },
     "done": false
   },
