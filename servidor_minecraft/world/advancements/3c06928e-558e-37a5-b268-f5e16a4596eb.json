@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-08-21 01:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-18 03:19:20 +0000"
@@ -460,6 +466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-08-21 01:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2025-08-18 03:26:56 +0000"
@@ -649,6 +661,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-08-20 00:37:48 +0000",
+      "beaches": "2025-08-21 01:10:51 +0000",
       "forest_hills": "2025-08-18 03:17:00 +0000",
       "plains": "2025-08-18 03:14:55 +0000",
       "jungle_edge": "2025-08-18 03:16:35 +0000",
