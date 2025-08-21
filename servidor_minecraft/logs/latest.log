@@ -395,3 +395,4 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [02:28:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TITIN_2 left the game
 [02:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was slain by Zombie
 [02:40:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa has made the advancement [Spooky Scary Skeleton]
+[02:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was slain by Zombie
