@@ -396,3 +396,5 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [02:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was slain by Zombie
 [02:40:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa has made the advancement [Spooky Scary Skeleton]
 [02:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was slain by Zombie
+[03:00:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 withered away
+[03:02:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was killed trying to hurt Zombie Pigman
