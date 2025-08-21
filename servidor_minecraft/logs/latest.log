@@ -403,3 +403,7 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [03:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa has made the advancement [Hot Stuff]
 [03:21:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa has made the advancement [Into Fire]
 [03:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 has made the advancement [Into Fire]
+[03:25:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was slain by Zombie
+[03:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was shot by Skeleton
+[03:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was shot by MaRio190waa using [Laminated Bow]
+[03:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was shot by Skeleton
