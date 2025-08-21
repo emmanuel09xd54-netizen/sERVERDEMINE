@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-08-21 03:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-18 02:06:28 +0000"
@@ -305,11 +311,13 @@
       "cooked_mutton": "2025-08-18 02:17:21 +0000",
       "cooked_beef": "2025-08-18 02:11:05 +0000",
       "baked_potato": "2025-08-20 01:20:25 +0000",
+      "beef": "2025-08-21 03:44:43 +0000",
       "cooked_cod": "2025-08-21 01:54:44 +0000",
       "melon": "2025-08-20 01:00:04 +0000",
       "bread": "2025-08-20 01:00:31 +0000",
       "golden_apple": "2025-08-21 03:33:46 +0000",
       "rotten_flesh": "2025-08-18 03:22:16 +0000",
+      "golden_carrot": "2025-08-21 03:49:43 +0000",
       "cooked_chicken": "2025-08-20 00:36:52 +0000"
     },
     "done": false
@@ -455,6 +463,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-08-20 01:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-08-21 03:49:40 +0000"
     },
     "done": true
   },
