@@ -407,3 +407,6 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [03:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was shot by Skeleton
 [03:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was shot by MaRio190waa using [Laminated Bow]
 [03:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was shot by Skeleton
+[03:37:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was shot by Skeleton
+[03:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was slain by Skeleton
+[03:43:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was slain by Antarki01 using [Crystal Pick]
