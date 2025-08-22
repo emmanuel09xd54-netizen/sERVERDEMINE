@@ -624,3 +624,11 @@
 [03:21:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was blown up by Creeper
 [03:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was slain by Zombie
 [03:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was shot by Skeleton
+[03:25:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was slain by Zombie Villager
+[03:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was slain by Zombie
+[03:26:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 was slain by Wither Skeleton
+[03:33:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was killed by Evoker using magic
+[03:34:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa was slain by Zombie
+[03:35:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MaRio190waa lost connection: Disconnected
+[03:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MaRio190waa left the game
