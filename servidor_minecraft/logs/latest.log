@@ -411,3 +411,6 @@
 [01:27:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: platanokill2 joined the game
 [01:32:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TITIN_2 lost connection: Disconnected
 [01:32:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TITIN_2 left the game
+[01:33:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: platanokill2 was slain by Zombie
+[01:37:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: platanokill2 fell from a high place
+[01:40:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: platanokill2 was slain by Zombie

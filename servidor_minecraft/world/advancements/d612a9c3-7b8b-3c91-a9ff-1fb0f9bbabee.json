@@ -1,1 +1,8 @@
-{}
+{
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-22 01:37:07 +0000"
+    },
+    "done": true
+  }
+}
