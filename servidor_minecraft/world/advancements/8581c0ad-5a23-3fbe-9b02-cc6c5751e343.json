@@ -1350,6 +1350,7 @@
       "forest": "2025-08-18 02:05:15 +0000",
       "deep_ocean": "2025-08-21 04:09:27 +0000",
       "beaches": "2025-08-21 04:04:26 +0000",
+      "extreme_hills_with_trees": "2025-08-22 03:08:50 +0000",
       "forest_hills": "2025-08-22 01:48:13 +0000",
       "plains": "2025-08-18 01:55:54 +0000",
       "jungle_edge": "2025-08-18 03:19:58 +0000",
@@ -1476,6 +1477,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-08-21 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-22 03:03:29 +0000"
     },
     "done": true
   },
