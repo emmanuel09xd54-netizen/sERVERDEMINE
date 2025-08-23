@@ -1137,3 +1137,68 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [16:09:12] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
 [16:10:00] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
 [16:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 has made the advancement [Caution: Don't Use On Lava]
+[16:10:34] [Server thread/WARN] [FML]: Cave Expansion loaded a new chunk [-17, 5] in dimension 0 (overworld) while populating chunk [-17, 6], causing cascading worldgen lag.
+[16:10:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:11:04] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:11:10] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:11:48] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 is bleeding...
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:38] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:43] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:14:36] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:14:38] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:14:38] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:14:39] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:15:39] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:16:21] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:16:36] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 has made the advancement [Not Silver]
+[16:18:14] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:19:06] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 is bleeding...
+[16:20:16] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:20:27] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:773) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.updateTimeLightAndEntities(DedicatedServer.java:397) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:668) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.NoSuchMethodError: energon.srpextra.entity.infected.SRPEInfected_Witch.isSwingingArms()Z
+	at energon.srpextra.entity.infected.SRPEInfected_Witch.onUpdate(SRPEInfected_Witch.java:116) ~[SRPEInfected_Witch.class:?]
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:1996) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:832) ~[oo.class:?]
+	at net.minecraft.world.World.updateEntity(World.java:1958) ~[amu.class:?]
+	at net.minecraft.world.World.updateEntities(World.java:1762) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:613) ~[oo.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:767) ~[MinecraftServer.class:?]
+	... 4 more
+[16:20:27] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/sERVERDEMINE/servidor_minecraft/./crash-reports/crash-2025-08-23_16.20.27-server.txt
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:20:27] [Server thread/WARN] [mca]: Crash detected! Attempting to upload report...
+[16:20:27] [Server thread/ERROR] [mca]: Failed to submit crash report. Non-OK response code returned: 301
+[16:20:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:20:27] [Server thread/INFO] [FML]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[16:20:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:20:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players

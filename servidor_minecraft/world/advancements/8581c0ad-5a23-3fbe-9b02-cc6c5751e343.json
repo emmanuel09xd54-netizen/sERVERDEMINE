@@ -1049,6 +1049,12 @@
     },
     "done": true
   },
+  "simpleores:main/tin_ore": {
+    "criteria": {
+      "got_tin_ore": "2025-08-23 16:16:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/willow_door": {
     "criteria": {
       "has_the_recipe": "2025-08-23 16:02:11 +0000"
@@ -2351,6 +2357,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-08-23 16:13:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-08-23 16:02:11 +0000"
@@ -2654,6 +2666,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2025-08-23 16:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-23 16:13:32 +0000"
     },
     "done": true
   },

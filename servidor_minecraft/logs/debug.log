@@ -7199,3 +7199,373 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 
 [16:10:15] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 50 times.
 
+[16:10:34] [Server thread/WARN] [FML]: Cave Expansion loaded a new chunk [-17, 5] in dimension 0 (overworld) while populating chunk [-17, 6], causing cascading worldgen lag.
+[16:10:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:10:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:11:04] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:11:05] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 55 times.
+
+[16:11:05] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 55 times.
+
+[16:11:05] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 55 times.
+
+[16:11:10] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:11:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:11:48] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:11:55] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 60 times.
+
+[16:11:55] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 60 times.
+
+[16:11:55] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 60 times.
+
+[16:12:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:12:45] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 65 times.
+
+[16:12:45] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 65 times.
+
+[16:12:45] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 65 times.
+
+[16:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 is bleeding...
+[16:13:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:22] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:35] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 70 times.
+
+[16:13:35] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 70 times.
+
+[16:13:35] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 70 times.
+
+[16:13:38] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:43] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:13:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:14:25] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 75 times.
+
+[16:14:25] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 75 times.
+
+[16:14:25] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 75 times.
+
+[16:14:36] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:14:38] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:14:38] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:14:39] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:14:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:15:15] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 80 times.
+
+[16:15:15] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 80 times.
+
+[16:15:15] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 80 times.
+
+[16:15:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:15:39] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:16:05] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 85 times.
+
+[16:16:05] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 85 times.
+
+[16:16:05] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 85 times.
+
+[16:16:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:16:21] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:16:36] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:16:55] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 90 times.
+
+[16:16:55] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 90 times.
+
+[16:16:55] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 90 times.
+
+[16:16:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 has made the advancement [Not Silver]
+[16:17:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:17:45] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 95 times.
+
+[16:17:45] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 95 times.
+
+[16:17:45] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 95 times.
+
+[16:18:14] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:18:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:18:35] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 100 times.
+
+[16:18:35] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 100 times.
+
+[16:18:35] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 100 times.
+
+[16:19:06] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:19:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:19:25] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 105 times.
+
+[16:19:25] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 105 times.
+
+[16:19:25] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 105 times.
+
+[16:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Antarki01 is bleeding...
+[16:19:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:20:15] [Server thread/DEBUG] [FML]: The world 79068237 (world) may have leaked: seen 110 times.
+
+[16:20:15] [Server thread/DEBUG] [FML]: The world 63b5b389 (world) may have leaked: seen 110 times.
+
+[16:20:15] [Server thread/DEBUG] [FML]: The world 42d86aeb (world) may have leaked: seen 110 times.
+
+[16:20:16] [Server thread/INFO] [STDOUT]: [com.Icehawk63.MoreApples.init.ApplesauceCraftingHanlder:CraftingAppleSauceEvent:21]: 1xitem.squeezer@0
+[16:20:27] [Server thread/DEBUG] [BlahajASM]: energon.srpextra.entity.infected.SRPEInfected_Witch = energon.srpextra.entity.infected.SRPEInfected_Witch = jar:file:/workspaces/sERVERDEMINE/servidor_minecraft/./mods/SRPExtra-0.3.jar!/energon/srpextra/entity/infected/SRPEInfected_Witch.class
+[16:20:27] [Server thread/DEBUG] [BlahajASM]: net.minecraft.world.World = amu = jar:file:/workspaces/sERVERDEMINE/servidor_minecraft/minecraft_server.1.12.2.jar!/amu.class
+[16:20:27] [Server thread/DEBUG] [BlahajASM]: net.minecraft.world.WorldServer = oo = jar:file:/workspaces/sERVERDEMINE/servidor_minecraft/minecraft_server.1.12.2.jar!/oo.class
+[16:20:27] [Server thread/DEBUG] [BlahajASM]: net.minecraft.server.MinecraftServer = net.minecraft.server.MinecraftServer = jar:file:/workspaces/sERVERDEMINE/servidor_minecraft/minecraft_server.1.12.2.jar!/net/minecraft/server/MinecraftServer.class
+[16:20:27] [Server thread/DEBUG] [BlahajASM]: net.minecraft.server.dedicated.DedicatedServer = nz = jar:file:/workspaces/sERVERDEMINE/servidor_minecraft/minecraft_server.1.12.2.jar!/nz.class
+[16:20:27] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:773) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.updateTimeLightAndEntities(DedicatedServer.java:397) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:668) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.NoSuchMethodError: energon.srpextra.entity.infected.SRPEInfected_Witch.isSwingingArms()Z
+	at energon.srpextra.entity.infected.SRPEInfected_Witch.onUpdate(SRPEInfected_Witch.java:116) ~[SRPEInfected_Witch.class:?]
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:1996) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:832) ~[oo.class:?]
+	at net.minecraft.world.World.updateEntity(World.java:1958) ~[amu.class:?]
+	at net.minecraft.world.World.updateEntities(World.java:1762) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:613) ~[oo.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:767) ~[MinecraftServer.class:?]
+	... 4 more
+[16:20:27] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/sERVERDEMINE/servidor_minecraft/./crash-reports/crash-2025-08-23_16.20.27-server.txt
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:20:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:20:27] [Server thread/WARN] [mca]: Crash detected! Attempting to upload report...
+[16:20:27] [Server thread/ERROR] [mca]: Failed to submit crash report. Non-OK response code returned: 301
+[16:20:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecoredummy
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecoredummy
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCoreDummy took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xaerominimap_core
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xaerominimap_core
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - XaeroMinimapCore took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xaeroworldmap_core
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xaeroworldmap_core
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - XaeroWorldMapCore took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mixinbooter
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mixinbooter
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MixinBooter took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod foamfixcore
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod foamfixcore
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - FoamFixCore took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod obfuscate
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod obfuscate
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Obfuscate took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod securitycraft
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod securitycraft
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SecurityCraft took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod appleskin
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod appleskin
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - AppleSkin took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod aquaacrobatics
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod aquaacrobatics
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Aqua Acrobatics took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod baubles
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod baubles
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Baubles took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod artifacts
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod artifacts
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Artifacts took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod quark
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod quark
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Quark took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod autoreglib
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod autoreglib
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - AutoRegLib took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod codechickenlib
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod codechickenlib
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CodeChicken Lib took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod avaritia
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod avaritia
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Avaritia took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod backportedflora
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod backportedflora
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Backported Flora took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod biomesoplenty
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod biomesoplenty
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Biomes O' Plenty took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod blahajasm
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod blahajasm
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BlahajASM took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod bookshelf
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod bookshelf
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Bookshelf took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cave_expansion
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cave_expansion
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Cave Expansion took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod charm
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod charm
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Charm took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod collective
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod collective
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Collective took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod extendedrenderer
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod extendedrenderer
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extended Renderer took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod coroutil
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod coroutil
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CoroUtil Library took 0.004s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod configmod
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod configmod
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extended Mod Config took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecore
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecore
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCore took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod eplus
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod eplus
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Enchanting Plus took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod extendedbonemeal
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod extendedbonemeal
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extended Bone Meal took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod fastleafdecay
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod fastleafdecay
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Fast Leaf Decay took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod foamfix
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod foamfix
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - FoamFix took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod foodexpansion
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod foodexpansion
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Food Expansion took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forgelin
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forgelin
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Shadowfacts' Forgelin took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod futuremc
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod futuremc
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Future MC took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod gb
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod gb
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Gobber took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod grimpack
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod grimpack
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Grim Pack took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cgm
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cgm
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Gun Mod took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod hw_inv
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod hw_inv
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Hostile Worlds Invasions took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod ironfurnaces
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod ironfurnaces
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Iron Furnaces took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod levelhearts
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod levelhearts
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - LevelHearts took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod lostcities
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod lostcities
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - The Lost Cities took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mca
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mca
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Comes Alive took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod moreapples
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod moreapples
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - More Apples took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod nt
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod nt
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Novam Terram took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod nutrition
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod nutrition
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Nutrition took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod playerrevive
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod playerrevive
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Player Revive took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod spartanshields
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod spartanshields
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Spartan Shields took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod srparasites
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod srparasites
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Scape and Run Parasites took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod overlast
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod overlast
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Parasites Addon : OverLast took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod roguelike
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod roguelike
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Roguelike Dungeons took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod sanlib
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod sanlib
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SanAndreasPs Mod Library took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod sanplayermodel
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod sanplayermodel
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SanAndreasPs Player Model took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod simplecore
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod simplecore
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SimpleCore API took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod simpledifficulty
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod simpledifficulty
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SimpleDifficulty took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod simpleores
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod simpleores
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SimpleOres 2 took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod spark
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod spark
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Spark Unforged took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod spartanweaponry
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod spartanweaponry
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Spartan Weaponry took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod rafradek_spin
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod rafradek_spin
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Spin To Win took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod srp_medical_addon
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod srp_medical_addon
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SRP: Medical Addon took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod srpextra
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod srpextra
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Scape and Run: Parasites Extra took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod starterkit
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod starterkit
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Starter Kit took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod swparasites
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod swparasites
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Scape and Spartan: Parasites took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod sapturretmod
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod sapturretmod
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Turret Mod Rebirth took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xaerominimap
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xaerominimap
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Xaero's Minimap took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xaeroworldmap
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xaeroworldmap
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Xaero's World Map took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod zombieawareness
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod zombieawareness
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Zombie Awareness took 0.000s
+[16:20:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod orelib
+[16:20:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod orelib
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - OreLib Support Mod took 0.000s
+[16:20:27] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.011s
+[16:20:27] [Server thread/INFO] [FML]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[16:20:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:20:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
