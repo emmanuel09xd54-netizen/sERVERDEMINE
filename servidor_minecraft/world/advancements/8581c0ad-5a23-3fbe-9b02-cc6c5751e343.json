@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-08-23 22:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-08-23 16:33:24 +0000"
@@ -566,6 +572,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-23 16:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-23 21:17:59 +0000"
     },
     "done": true
   },
@@ -649,8 +661,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-08-23 21:23:18 +0000",
+      "skeleton": "2025-08-23 20:37:07 +0000",
       "zombie": "2025-08-23 16:46:31 +0000",
-      "witch": "2025-08-23 16:56:36 +0000"
+      "witch": "2025-08-23 16:56:36 +0000",
+      "spider": "2025-08-23 20:50:15 +0000",
+      "creeper": "2025-08-23 20:59:50 +0000"
     },
     "done": false
   },
@@ -1188,7 +1204,8 @@
       "deep_ocean": "2025-08-23 16:35:01 +0000",
       "beaches": "2025-08-23 16:33:27 +0000",
       "ocean": "2025-08-23 16:35:14 +0000",
-      "river": "2025-08-23 16:47:49 +0000"
+      "river": "2025-08-23 16:47:49 +0000",
+      "stone_beach": "2025-08-23 22:12:26 +0000"
     },
     "done": false
   },
@@ -1279,6 +1296,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-23 16:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-23 20:46:32 +0000"
     },
     "done": true
   },
@@ -1711,7 +1734,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-08-23 16:55:59 +0000",
-      "bread": "2025-08-23 16:54:00 +0000"
+      "apple": "2025-08-23 20:49:02 +0000",
+      "cooked_cod": "2025-08-23 21:26:27 +0000",
+      "bread": "2025-08-23 16:54:00 +0000",
+      "rotten_flesh": "2025-08-23 20:48:11 +0000"
     },
     "done": false
   },
@@ -1828,6 +1854,12 @@
       "has_the_recipe": "2025-08-23 16:33:24 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2025-08-23 20:44:43 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
@@ -2642,6 +2674,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_the_recipe": "2025-08-23 16:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2025-08-23 20:44:43 +0000"
     },
     "done": true
   },
