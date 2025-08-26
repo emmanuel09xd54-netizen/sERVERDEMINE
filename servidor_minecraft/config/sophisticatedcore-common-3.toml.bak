@@ -1,0 +1,4 @@
+
+[common]
+	enabledItems = ["sophisticatedbackpacks:smelting_upgrade|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedbackpacks:feeding_upgrade|true", "sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedbackpacks:battery_upgrade|true", "sophisticatedbackpacks:smoking_upgrade|true", "sophisticatedbackpacks:advanced_feeding_upgrade|true", "sophisticatedbackpacks:diamond_backpack|true"]
+

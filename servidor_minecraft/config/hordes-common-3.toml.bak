@@ -1,3 +1,4 @@
+Misc = {}
 
 ["Horde Event"]
 	#Set to false to completely disable the horde event and anything relating to it.
@@ -67,52 +68,4 @@
 	infectionEntitiesAggroConversions = true
 	#What factor should the infection potion effect timer be multiplied by for each cured infection? (Resets on death, set to 1 to disable scaling)
 	effectStageTickReduction = 0.95
-
-[Misc]
-	#Whether zombies and drowned burn in sunlight.
-	zombiesBurn = false
-	#Whether skeletons and strays burn in sunlight.
-	skeletonsBurn = false
-	#Whether zombie villagers have vanilla curing mechanics or not
-	zombieVillagersCanBeCured = false
-	#Whether piglins and hoglins automatically convert to zombies in the overworld
-	piglinsHoglinsConvert = false
-	#Whether zombie horses are aggressive or not.
-	aggressiveZombieHorses = true
-	#Whether zombie horses burn in sunlight.
-	zombieHorsesBurn = false
-	#Whether skeleton horses burn in sunlight.
-	skeletonHorsesBurn = false
-	#Whether unmounted horses are scared of zombies.
-	zombiesScareHorses = true
-	#Whether zombie piglins are hostile by default
-	zombiePiglinsHostile = true
-	#Whether piglins kill zombie mobs
-	piglinsHuntZombies = true
-	#Whether piglins use cures they find and keep in their inventory to heal infection.
-	piglinsCureThemself = true
-	#Whether illagers kill zombie mobs
-	illagersHuntZombies = true
-	#Whether zoglins are agressive towards other undead mobs
-	zoglinsAttackUndead = false
-	#Whether zoglins are agressive towards non-undead monsters
-	zoglinsAttackMobs = true
-
-	[Misc."Zombie Players"]
-		#Whether to use zombie players as graves all the time. (Even if infection is disabled)
-		zombieGraves = false
-		#Whether to spawn drowned players when a player dies underwater instead of a zombie player. (Whether the zombie is spawned from infection or zombieGraves being true)
-		drownedPlayers = true
-		#Whether to spawn husk players when a player dies in a desert biome instead of a zombie player. (Whether the zombie is spawned from infection or zombieGraves being true)
-		huskPlayers = true
-		#Whether zombie players, drowned players and husk players should be immune to fire damage
-		zombiePlayersFireImmune = false
-		#Whether zombie players and drowned players burn in sunlight.
-		zombiePlayersBurn = false
-		#Whether zombie players, drowned players and husk players are immune to all damage from non player sources.
-		zombiePlayersOnlyHurtByPlayers = false
-		#Whether zombie players, drowned players and husk players store items dropped by the player that spawned them.
-		zombiePlayersStoreItems = true
-		#Do zombie players despawn in peaceful mode?
-		zombiePlayersDespawnPeaceful = false
 
